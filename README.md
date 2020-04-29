@@ -9,6 +9,6 @@ INSTRUCTIONS
 3. Run MCQmarker in the parent directory containing the directories of answer sheets for each examination.
 
 OUTPUTS
-1. A spreadsheet of marks (Student ID, Name, Mark) in each directory in the format <Directory Name>_MCQ_marks.csv.
+1. A spreadsheet of marks (Student ID, Name, Mark) in each directory in the format <i>DirectoryName_MCQ_marks.csv</i>.
 2. A file no_csv_extension.csv in each directory, containing a log of files it found without a csv extension and therefore did not process.
 3. A file csv_but_not_a_record.csv in each directory, containing a log of files it found that were in csv format but did not seem to be answer sheet files (the script checks whether the top left hand corner element is "Student ID:").
