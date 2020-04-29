@@ -1,7 +1,7 @@
 # MCQmarker
 MCQmarker marks and aggregates multiple choice answers across different examinations, provided that the individual answer sheets are in a csv format.  It is run in a parent directory containing the directories of student answer sheets.
 
-MCQmarker is a kind of 'hope we don't have to use' backup for when normal systems are not working, or for when transferring MCQ exam paper questions to an alternative online format seems too costly or risky.  Instead, students can read their questions in a familiar format, but complete their answers in csv, see e.g. the versions of <i>student1.csv</i> in ABC101 and ABC102.
+MCQmarker is a kind of 'hope we don't have to use' backup for when normal systems are not working for some reason.  Students can read their questions in a familiar format, but complete their answers in csv, see e.g. the versions of <i>student1.csv</i> in ABC101 and ABC102.
 
 INSTRUCTIONS
 1. Aside from the question numbering style, the format must be as in student1.csv, though the answer sheet filenames can be anything provided there is a csv extension.  Students must mark their answers with X or x.
