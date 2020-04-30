@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-
-
-
-# In[21]:
-
-
 import os
 from os import walk
 import pandas as pd
